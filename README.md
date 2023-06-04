@@ -19,3 +19,12 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+## Screenshots
+![Screenshot 2023-06-04 175253](https://github.com/njheymann/njh-pw-generator/assets/125000756/c5bf0fd5-a6c3-4454-94cf-eac8c8c37938)
+![Screenshot 2023-06-04 175338](https://github.com/njheymann/njh-pw-generator/assets/125000756/4f3c4dbf-a96c-4142-86ed-ddf97d1ac01b)
+![Screenshot 2023-06-04 175405](https://github.com/njheymann/njh-pw-generator/assets/125000756/561b9fd1-f09b-483a-b6b0-853e33fb6069)
+
+## Deployment
+Deployed page URL: https://njheymann.github.io/njh-pw-generator/
+Repository URL: https://github.com/njheymann/njh-pw-generator
